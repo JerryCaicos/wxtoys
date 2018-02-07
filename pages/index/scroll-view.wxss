@@ -1,0 +1,57 @@
+/* pages/index/scroll-view.wxss */
+.section__title{
+  color: #ff00ff;
+  background: gray;
+}
+
+.scroll-1view{
+  background-color: greenyellow
+}
+
+.bc_green{
+
+    background:green;
+
+}
+
+.bc_red{
+
+    background:red;
+
+}
+
+.bc_blue{
+
+    background:blue;
+
+}
+
+.bc_yellow{
+
+    background:yellow;
+
+}
+
+.scroll-view-item{
+
+    width:200px;
+
+    height:200px;
+
+}
+
+.scroll-view-item_H{
+
+    width:200px;
+
+    height:200px;
+
+    display: inline-block
+
+}
+
+.scroll-view_H{
+  white-space: nowrap;
+  width:100%;
+  height:300px;
+}
