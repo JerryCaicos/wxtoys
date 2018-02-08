@@ -2,6 +2,9 @@
   "pages":[
     "pages/index/index",
     "pages/index/scroll-view",
+    "pages/index/swiper",
+    "pages/index/movable-view",
+    "pages/index/cover-view",
     "pages/logs/logs"
   ],
   "window":{
@@ -19,7 +22,7 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/index/movable-view",
         "text": "日志"
       },
       {
@@ -27,7 +30,11 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/index/swiper",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/cover-view",
         "text": "首页"
       }
     ]

@@ -1,0 +1,9 @@
+/* pages/index/swiper.wxss */
+.slide-image-item{
+  width: 100%;
+  height: 200px
+}
+.swiper-view{
+  width: 100%;
+  height: 300px
+}
