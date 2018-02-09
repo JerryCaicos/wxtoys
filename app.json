@@ -5,6 +5,8 @@
     "pages/index/swiper",
     "pages/index/movable-view",
     "pages/index/cover-view",
+    "pages/index/picker",
+    "pages/index/picker-view",
     "pages/logs/logs"
   ],
   "window":{
@@ -34,7 +36,7 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/index/cover-view",
+        "pagePath": "pages/index/picker-view",
         "text": "首页"
       }
     ]
